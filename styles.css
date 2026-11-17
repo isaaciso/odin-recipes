@@ -1,0 +1,17 @@
+.pumpkin,
+.velvet,
+.Banana {
+    background-color: white;
+    color: brown;
+    font-size: larger;
+    margin: 10px;
+}
+
+.odin {
+    background-color: white;
+    color: blue;
+    margin-left: 40px;
+    padding: 8px;
+
+    
+}
